@@ -34,6 +34,6 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in backe
 
 ### 📫 Connect with me
 - GitHub: [hupen-hello](https://github.com/hupen-hello)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/hupen-singh-859205229/)
+- LinkedIn: [hupen-shreya](https://www.linkedin.com/in/hupen-shreya-859205229/)
 
 Thanks for stopping by! Happy coding! 🚀
