@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Hupender Singh (Hupen siriya) 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with expertise in backend and frontend technologies. I love building scalable applications and working with data visualization tools. 
 
@@ -34,6 +34,6 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in backe
 
 ### 📫 Connect with me
 - GitHub: [hupen-hello](https://github.com/hupen-hello)
-- LinkedIn: [hupen-shreya](https://www.linkedin.com/in/hupen-shreya-859205229/)
+- LinkedIn: [hupen-shreya](https://www.linkedin.com/in/hupen-siriya-859205229/)
 
 Thanks for stopping by! Happy coding! 🚀
